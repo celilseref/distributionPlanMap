@@ -1,4 +1,4 @@
-# graphMap
+# distributionPlanMap
 Acil durum ve doğal afed gibi durumlarda kullanılabilecek bir proje hazırladık. <br>
 Google Map API servislerini kullandık.<br>
 Harita üzerinde belirli bir bölgede rastgele noktalar seçerek bu noktalara marker özelliği ile gereksinimler ekledik.<br>
